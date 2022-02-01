@@ -22,8 +22,7 @@ I am Abhilekh Gautam from Kathmandu, Nepal. Programming is my hobby these day.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilekhgautam&langs_count=8&layout=compact)](https://github.com/abhilekhgautam/github-readme-stats)
 
-# Total Visitors
-![Visitor Count](https://profile-counter.glitch.me/{abhilekhgautam}/count.svg)
+
 
 
 <!---
