@@ -5,8 +5,9 @@ I am Abhilekh Gautam from Kathmandu, Nepal. Programming is my hobby these day.
 
  **About Me**
      <li>I am an undergrad Student Currently enrolled in BE (Computer)</li>
-     <li>Interest in System Programming and embeded System.</li>
-     <li>Full Stack Web Development</li>
+     <li>Interested in System Programming and embeded System.</li>
+     <li>Inerested in Game Development.</li>
+     <li>Full Stack Web Development.</li>
 
 ![Abhilekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilekhgautam)
 
