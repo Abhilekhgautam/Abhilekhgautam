@@ -1,13 +1,12 @@
-Hello, World!.
+Hello, World
 
 I am Abhilekh Gautam from Kathmandu, Nepal. Programming is my hobby these day.
 
 
  **About Me**
-     <li>I am an undergrad Student Currently enrolled in BE (Computer)</li>
+     <li>I am a undergrad Student Currently enrolled in BE (Computer)</li>
      <li>Interested in System Programming</li>
-     <li>Interested in Game Development.</li>
-     <li>Full Stack Web Development.</li>
+     <li>Currently learning The Rust Programmng Language</li>
 
 ![Abhilekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilekhgautam)
 
