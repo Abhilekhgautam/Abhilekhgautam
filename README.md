@@ -1,4 +1,4 @@
-Hello, World
+Hello, World!
 
 I am Abhilekh Gautam from Kathmandu, Nepal. Programming is my hobby these day.
 
@@ -7,8 +7,6 @@ I am Abhilekh Gautam from Kathmandu, Nepal. Programming is my hobby these day.
      <li>I am a undergrad Student Currently enrolled in BE (Computer)</li>
      <li>Interested in System Programming</li>
      <li>Currently learning The Rust Programmng Language</li>
-
-![Abhilekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilekhgautam)
 
  **Languages and Tools**
 
@@ -20,7 +18,7 @@ I am Abhilekh Gautam from Kathmandu, Nepal. Programming is my hobby these day.
 ![Cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilekhgautam&langs_count=8&layout=compact)](https://github.com/abhilekhgautam/github-readme-stats)
+
 
 
 
