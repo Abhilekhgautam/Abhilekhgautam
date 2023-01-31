@@ -9,6 +9,10 @@ Beside programming I like reading books (Currently reading the *The Dragon Book*
 I have written more than
 10 articles related to computer programming that are published online.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilekhgautam&layout=compact&langs_count=8)](https://github.com/abhilekhgautam/github-readme-stats)
+
+![Abhilekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilekhgautam&show_icons=true&theme=transparent)
+
  **Languages and Tools**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
