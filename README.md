@@ -1,4 +1,3 @@
-Hello, World!
 
 I am *Abhilekh Gautam* from Nepal.
 Programming is my hobby these day. I like writing C++. Recently I have
