@@ -6,7 +6,7 @@ and currently working on my hobby compiler project. However I am into backend we
 
 Beside programming I like reading books (Currently reading the *The Dragon Book*) I have found my interest in technical writing as well, 
 I have written more than
-a dozeb article related to computer programming that are published online.
+a dozen article related to computer programming that are published online.
 
 <!---
 Abhilekhgautam/Abhilekhgautam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
