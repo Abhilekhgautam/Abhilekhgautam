@@ -2,7 +2,7 @@
 I am *Abhilekh Gautam* from Nepal.
 Programming is my hobby these day. I like writing C++. Recently I have
 started learning the Rust Programming language. I am interested in System Programming
-and currently working on my hobby compiler project. However I am into backend web development as well, I use go for that purpose.
+and currently working on my hobby compiler project. However I am into backend web development as well.
 
 Beside programming I like reading books (Currently reading the *The Dragon Book*) I have found my interest in technical writing as well, 
 I have written more than
