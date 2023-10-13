@@ -8,8 +8,6 @@ Beside programming I like reading books (Currently reading the *The Dragon Book*
 I have written more than
 a dozen article related to computer programming that are published online.
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilekhgautam&langs_count=4&theme=tokyonight)]()
-
 <!---
 Abhilekhgautam/Abhilekhgautam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
